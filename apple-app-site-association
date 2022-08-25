@@ -1,0 +1,19 @@
+{
+   "applinks": {
+       "details": [
+            {
+              "appIDs": [ "2VLD66LBT5.com.digitalmmk.app", "2VLD66LBT5.org.nugmyanmar.nugpay" ],
+              "components": [
+                {
+                   "/": "/topup",
+                   "?": { "code": "*" },
+                   "comment": "Matches any URL with a path that starts with /topup/ and code param."
+                }
+              ]
+            }
+        ]
+    },
+    "webcredentials": {
+       "apps": [ "2VLD66LBT5.com.digitalmmk.app", "2VLD66LBT5.org.nugmyanmar.nugpay"]
+    }
+ }
